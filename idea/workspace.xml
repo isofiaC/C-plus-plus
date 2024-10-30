@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakePresetLoader">{
+  &quot;useNewFormat&quot;: true
+}</component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="Tp2" targetName="Tp2" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6c9c7235-78ef-47bf-a8af-8532913ca31d" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2023" />
+    <option name="minorVersion" value="2.2" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2XwS9b4oE883htAgnnhYVMp67qZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/ISEC/6ano/POO/Tp2/cmake-build-debug&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;structure.view.defaults.are.configured&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\ISEC\6ano\POO\Tp2\cmake-build-debug" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\ISEC\6ano\POO\Tp2\Comandos" />
+      <recent name="D:\ISEC\6ano\POO\Tp2\Sensores" />
+      <recent name="D:\ISEC\6ano\POO\Tp2\Regras" />
+      <recent name="D:\ISEC\6ano\POO\Tp2\Aparelhos" />
+      <recent name="D:\ISEC\6ano\POO\Tp2\Propriedades" />
+    </key>
+  </component>
+  <component name="RunManager" selected="CMake Application.Tp2">
+    <configuration name="Debug" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Tp2" TARGET_NAME="Tp2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Tp2" RUN_TARGET_NAME="Tp2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tp2" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="/c start cmd /c &quot;Tp2.exe &amp; pause&quot;" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="true" EMULATE_TERMINAL="false" WORKING_DIR="file://$PROJECT_DIR$/cmake-build-debug" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Tp2" TARGET_NAME="Tp2" CONFIG_NAME="Debug" RUN_PATH="C:/Windows/System32/cmd.exe">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.Tp2" />
+      <item itemvalue="CMake Application.Debug" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6c9c7235-78ef-47bf-a8af-8532913ca31d" name="Changes" comment="" />
+      <created>1699538499036</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1699538499036</updated>
+      <workItem from="1699538500751" duration="723000" />
+      <workItem from="1699539241380" duration="58000" />
+      <workItem from="1699539339758" duration="5713000" />
+      <workItem from="1700131523734" duration="1504000" />
+      <workItem from="1700146269681" duration="3507000" />
+      <workItem from="1700213391450" duration="52000" />
+      <workItem from="1700318680960" duration="12083000" />
+      <workItem from="1700381406977" duration="961000" />
+      <workItem from="1700392558792" duration="1125000" />
+      <workItem from="1700748828715" duration="10733000" />
+      <workItem from="1700854021225" duration="633000" />
+      <workItem from="1700922720491" duration="1926000" />
+      <workItem from="1700924674619" duration="3189000" />
+      <workItem from="1701337031039" duration="306000" />
+      <workItem from="1701346932677" duration="885000" />
+      <workItem from="1701690338239" duration="741000" />
+      <workItem from="1701941757691" duration="1106000" />
+      <workItem from="1702201093470" duration="10745000" />
+      <workItem from="1702405720221" duration="1226000" />
+      <workItem from="1702546529606" duration="676000" />
+      <workItem from="1703011678674" duration="5512000" />
+      <workItem from="1703066753485" duration="7246000" />
+      <workItem from="1703097732697" duration="8293000" />
+      <workItem from="1703151382184" duration="959000" />
+      <workItem from="1703165388892" duration="6452000" />
+      <workItem from="1703334016097" duration="231000" />
+      <workItem from="1703350137688" duration="12013000" />
+      <workItem from="1703582858962" duration="2326000" />
+      <workItem from="1703607820857" duration="3901000" />
+      <workItem from="1703703505528" duration="4335000" />
+      <workItem from="1703707911550" duration="1149000" />
+      <workItem from="1703754075942" duration="6532000" />
+      <workItem from="1703790242311" duration="6450000" />
+      <workItem from="1703984858760" duration="5766000" />
+      <workItem from="1704014153415" duration="3890000" />
+      <workItem from="1704109501126" duration="1984000" />
+      <workItem from="1704135371495" duration="1414000" />
+      <workItem from="1704137899182" duration="2000" />
+      <workItem from="1704451779745" duration="2213000" />
+      <workItem from="1704807366799" duration="43000" />
+      <workItem from="1704811689775" duration="12000" />
+      <workItem from="1704820016993" duration="7000" />
+      <workItem from="1704881044492" duration="1108000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VCPKGProject">
+    <isAutomaticEditVcpkgJson value="false" />
+    <isAutomaticCheckingOnLaunch value="false" />
+    <isAutomaticFoundErrors value="true" />
+    <isAutomaticFoundErrors value="true" />
+  </component>
+</project>
