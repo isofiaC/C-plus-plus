@@ -1,0 +1,3 @@
+D:/ISEC/6ano/POO/poo_2324_tp_m2_InesCarvalho_2017015276_MargaridaDuarte_2018019486/Tp/cmake-build-debug/CMakeFiles/Tp2.dir
+D:/ISEC/6ano/POO/poo_2324_tp_m2_InesCarvalho_2017015276_MargaridaDuarte_2018019486/Tp/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/ISEC/6ano/POO/poo_2324_tp_m2_InesCarvalho_2017015276_MargaridaDuarte_2018019486/Tp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
